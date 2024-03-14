@@ -38,6 +38,7 @@ The resale flat market in Singapore is highly competitive, making it challenging
 
 ## Workflow
 
+![Singapore](https://github.com/asdesilva3/Singapore-Resale-Flat-Prices-Predicting/assets/148002331/e45eca75-e832-40b3-869a-c84cb3a28574)
 
 
 ## Data Description
